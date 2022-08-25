@@ -8,6 +8,12 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import ar.com.momr.obspringej456.entities.Laptop;
 import ar.com.momr.obspringej456.repository.LaptopRepository;
 
+/**
+ * 
+ * heroku deply site= https://ob-spring-ej10-11-12.herokuapp.com/
+ * @author maxio
+ *
+ */
 @EnableWebMvc
 @SpringBootApplication
 public class ObSpringEj456Application {
